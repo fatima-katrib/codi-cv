@@ -1,6 +1,7 @@
-<center><img src="fatima-katrib.jpeg" width="100"></center>
+<p align="center">
+<img src="fatima-katrib.jpeg" width="100"> </p>
 
-# <center>Fatima Katrib </center>
+<h1 align="center">Fatima Katrib</h1>
 
 fatimakatrib19@gmail.com | [LinkedIn](https://www.linkedin.com/in/fatima-katrib-0795b8102/ "fatima-katrib") |
 Tripoli, Lebanon
