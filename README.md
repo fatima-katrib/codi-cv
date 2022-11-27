@@ -1,5 +1,5 @@
 <p align="center">
-<img src="fatima-katrib.jpeg" width="100"> </p>
+<img src="fatima-katrib.png" width="100"> </p>
 
 <h1 align="center">Fatima Katrib</h1>
 
